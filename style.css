@@ -22,6 +22,46 @@ img {
   background-image: url("assets/tokyo.jpeg");
 }
 
+#delhi {
+  background-image: url("assets/delhi.jpeg");
+}
+
+#shanghai {
+  background-image: url("assets/shanghai.jpeg");
+}
+
+#saopaolo {
+  background-image: url("assets/sao-paolo.jpeg");
+}
+
+#mexicocity {
+  background-image: url("assets/mexico-city.jpeg");
+}
+
+#cairo {
+  background-image: url("assets/cairo.jpeg");
+}
+
+#dhaka {
+  background-image: url("assets/dhaka.jpeg");
+}
+
+#tokyo {
+  background-image: url("assets/tokyo.jpeg");
+}
+
+#mumbai {
+  background-image: url("assets/mumbai.jpeg");
+}
+
+#beijing {
+  background-image: url("assets/beijing.jpeg");
+}
+
+#osaka {
+  background-image: url("assets/osaka.jpeg");
+}
+
 .city, .population {
   font-family: 'Quicksand', sans-serif;
 }
