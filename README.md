@@ -8,4 +8,4 @@ We have some pretty big and bustling cities here in the US. At over 8.5 million 
 
 ## The Lab
 
-Use HTML and JavaScript to accept input from users, and dynamically add content to the page if the user enters a correct city.
+Use HTML and JavaScript to accept input from users, and dynamically add content to the page if the user enters a correct city. The final product can be found here: <a href="https://most-populated-cities-fin.glitch.me">https://most-populated-cities-fin.glitch.me</a>. For a cheatsheet, check out `mostPopulatedCities.txt`.
